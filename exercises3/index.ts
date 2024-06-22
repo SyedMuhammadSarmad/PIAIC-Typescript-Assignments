@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 let person_name = "sarmad"
 
 console.log("Lower case:",person_name.toLowerCase())
