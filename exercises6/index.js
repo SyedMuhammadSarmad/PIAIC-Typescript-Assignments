@@ -4,8 +4,7 @@
 //Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
 // \t: adds tab space
 // \n: adds to next line
-let person_name = "\n \t Sarmad \t \n"
-
-console.log(person_name)
-
-console.log(person_name.trim()) //after white spaces stripped
+let person_name = "\n \t Sarmad \t \n";
+console.log(person_name);
+console.log(person_name.trim());
+export {};
