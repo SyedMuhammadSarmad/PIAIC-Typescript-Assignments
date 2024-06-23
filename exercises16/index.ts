@@ -38,4 +38,3 @@ guest.push("hamza")
 
 guest.map((guests)=>console.log(`Hi ${guests} I’d love for you to join us for dinner`))
 
-
