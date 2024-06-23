@@ -5,21 +5,17 @@
 • If the alien’s color isn’t green, print a statement that the player just earned 10 points.
 
 • Write one version of this program that runs the if block and another that runs the else block.*/
-
-let allien_color = "yellow"
-
-if(allien_color == "green"){
-    console.log("you earned 5 points for shooting the alien")
+let allien_color = "yellow";
+if (allien_color == "green") {
+    console.log("you earned 5 points for shooting the alien");
 }
-
-if(allien_color != "green"){
-    console.log("you earned 10 points")
+if (allien_color != "green") {
+    console.log("you earned 10 points");
 }
-
-if(allien_color == "green"){
-    console.log("you earned 5 points for shooting the alien")
+if (allien_color == "green") {
+    console.log("you earned 5 points for shooting the alien");
 }
-else{
-    console.log("you earned 10 points")
-
+else {
+    console.log("you earned 10 points");
 }
+export {};
