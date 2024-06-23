@@ -11,30 +11,29 @@
 • If the person is at least 20 years old but less than 65, print a message that the person is an adult.
 
 • If the person is age 65 or older, print a message that the person is an elder.*/
-
 let age = 22;
-
 //• If the person is less than 2 years old, print a message that the person is a baby.
-if(age<2){
-    console.log("the person is a baby")
+if (age < 2) {
+    console.log("the person is a baby");
 }
 //• If the person is at least 2 years old but less than 4, print a message that the person is a toddler.
-else if(2<= age && age<4){
-    console.log("the person is a toddler")
+else if (2 <= age && age < 4) {
+    console.log("the person is a toddler");
 }
 //• If the person is at least 4 years old but less than 13, print a message that the person is a kid.
-else if(4<= age && age<13){
-    console.log("the person is a kid")
+else if (4 <= age && age < 13) {
+    console.log("the person is a kid");
 }
 //• If the person is at least 13 years old but less than 20, print a message that the person is a teenager.
-else if(13<= age && age<20){
-    console.log("the person is a teeanger")
+else if (13 <= age && age < 20) {
+    console.log("the person is a teeanger");
 }
 //• If the person is at least 20 years old but less than 65, print a message that the person is an adult.
-else if(20<= age && age<65){
-    console.log("the person is a adult")
+else if (20 <= age && age < 65) {
+    console.log("the person is a adult");
 }
 //• If the person is age 65 or older, print a message that the person is an elder.
-else{
-    console.log("the person is an elder")
+else {
+    console.log("the person is an elder");
 }
+export {};
