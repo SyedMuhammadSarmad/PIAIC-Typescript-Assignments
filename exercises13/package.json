@@ -1,5 +1,5 @@
 {
-  "name": "exercises2_print_message_by_sarmad",
+  "name": "exercises13_print_message_with_arrays_by_sarmad",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -17,5 +17,5 @@
     "url": "https://github.com/SyedMuhammadSarmad/PIAIC-Typescript-Assignments/issues"
   },
   "homepage": "https://github.com/SyedMuhammadSarmad/PIAIC-Typescript-Assignments#readme",
-  "description": "exercises2"
+  "description": "exercises13"
 }
