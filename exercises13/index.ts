@@ -7,3 +7,4 @@ let transportation : string[] = ["Bugatti","Audi","Tesla Model X"];
 
 transportation.map((items) => console.log("I would like to own",items))
 // transportation.map((items) => console.log(`I would like to own a ${items}.`)); 
+
