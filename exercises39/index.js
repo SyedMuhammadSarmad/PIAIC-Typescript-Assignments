@@ -3,11 +3,9 @@
 "Lahore, Pakistan"
 
 Call your function with at least three city-country pairs, and print the value that’s returned.*/
-
-function city_country(city_name :string , country : string) : string{
-     return `"${city_name}, ${country}"`
+function city_country(city_name, country) {
+    return `"${city_name}, ${country}"`;
 }
- 
-
-console.log(city_country("Lahore","pakistan"))
-console.log(city_country("Karachi","pakistan"))
+console.log(city_country("Lahore", "pakistan"));
+console.log(city_country("Karachi", "pakistan"));
+export {};
