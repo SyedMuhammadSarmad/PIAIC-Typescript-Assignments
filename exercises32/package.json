@@ -1,0 +1,21 @@
+{
+  "name": "exercises32_by_sarmad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedMuhammadSarmad/PIAIC-Typescript-Assignments.git"
+  },
+  "author": "sarmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedMuhammadSarmad/PIAIC-Typescript-Assignments/issues"
+  },
+  "homepage": "https://github.com/SyedMuhammadSarmad/PIAIC-Typescript-Assignments#readme",
+  "description": "exercises32"
+}
